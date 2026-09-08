@@ -1,0 +1,7 @@
+streamlit==1.49.1
+langchain-openai==0.3.32
+langchain-community==0.3.29
+langchain-chroma==0.2.5
+langchain-text-splitters==0.3.11
+pypdf==6.0.0
+docx2txt==0.9
